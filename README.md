@@ -99,3 +99,4 @@ Short codes must follow the pattern: `[A-Za-z0-9]{6,8}` (6-8 alphanumeric charac
 
 MIT
 
+# Trigger redeploy
